@@ -10,4 +10,4 @@ This is the Front-End part of the MERN stack using React. The App is called "Mem
 
 
 Setup:
-- run ```npm i && npm start``` for both client and server side to start the app
+- run ```npm i && npm start```  to start the app
